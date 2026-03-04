@@ -47,7 +47,7 @@ Use SSDT-Nvme-DISABLE.aml to disable the Nvme drives that are problematic, else 
 | Battery | ✅ | Vary poor (2hrs SOT) |
 | iServices | ✅ | Message/Facetime tested and working |
 | Shutdown/Reboot | ✅ | Working fine |
-| Trackpad | ✅ | Synaptics Touchpad with AMD I2C Controller |
+| Trackpad | ✅ | Try using [VoodooPS2.kext](https://github.com/acidanthera/VoodooPS2) |
 | Sleep | ☑️ | bugs (not working all the time) |
 ## What's not Working
 
@@ -58,7 +58,6 @@ Use SSDT-Nvme-DISABLE.aml to disable the Nvme drives that are problematic, else 
 | Bluetooth | ❌ | Unsupported Chipset |
 | Audio | ❌ | AppleALC kext working with layout-id 11 (On Sonoma) |
 | Mic | ❌ | Is it possible using? [AMDMicrophone](https://github.com/qhuyduong/AMDMicrophone) |
-| Trackpad | ❌ | Synaptics Touchpad with AMD I2C Controller |
 
 
 ## Kexts Used
