@@ -1,7 +1,5 @@
 # HP-VICTUS-16-e0076AX Hackintosh
 
-## Cloned from [devopsnextgenx](https://github.com/devopsnextgenx/ryzentosh-victus-e0075AX?tab=readme-ov-file) and edited by [zartazor](https://github.com/zartazor)
-
  <h2 align="center"> OpenCore EFI For HP Victus 16 Ryzen 5 5600H & NVIDIA GTX 3050</h2>
  OpenCore Ver: 1.0.1</br>
  MacOS Supported Ver (tested): 
