@@ -26,8 +26,8 @@ Use SSDT-Nvme-DISABLE.aml to disable the Nvme drives that are problematic, else 
 | ---------------------- | :------------------------------------------------------------------------ |   
 |CPU                     | AMD Ryzen™ 5 5600H with Radeon Graphics                                   |
 |iGPU                    | AMD Radeon(TM) Graphics                                                   |
-|dGPU                    | NVIDIA GTX 1650 [DISABLED]                                                |
-|Memory                  | 32GB DDR4 3200MHz                                                         |
+|dGPU                    | NVIDIA GTX 3050 [DISABLED]                                                |
+|Memory                  | 24GB DDR4 3200MHz                                                         |
 |Storage                 | 512GB NVMe Micron MTFDKCD512TFK                                           |
 |Network                 | Realtek RTL8852AE WiFi 6 802.11ax PCle Adapter [UNSUPPORTED]              | 
 |                        | Realtek Gaming Gbe Family Controller                                      |
@@ -86,4 +86,4 @@ Use SSDT-Nvme-DISABLE.aml to disable the Nvme drives that are problematic, else 
 |[VoodooRMI.kext](https://github.com/VoodooSMBus/VoodooRMI)|Synaptic Trackpad driver over SMBus/I2C for macOS|
 
 ## Screenshots
-![amd-power](https://github.com/user-attachments/assets/be0c0d78-3714-4728-84c0-f0112f86efac)
+![amd-power](https://github.com/zartazor/Hackintosh-HP-Victus-16-e0076AX-EFI/blob/main/SS/Screenshot%202026-03-04%20at%207.17.54%E2%80%AFAM.png)
