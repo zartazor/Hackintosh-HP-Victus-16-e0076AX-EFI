@@ -9,7 +9,7 @@
 *   Sequoia
 *   Sonoma
 
- ![About mac](https://github.com/user-attachments/assets/ad48aac0-ef6c-4cdd-ac9a-7c5914c0e6a5)
+ ![About mac](https://github.com/zartazor/Hackintosh-HP-Victus-16-e0076AX-EFI/blob/main/SS/Screenshot%202026-03-04%20at%207.17.54%E2%80%AFAM.png)
 
 Check [Dortania's Guide](https://dortania.github.io/Anti-Hackintosh-Buyers-Guide/) for unsupported hardware like SSD and WLAN cards and replace them with supported ones<br/>
 Use SSDT-Nvme-DISABLE.aml to disable the Nvme drives that are problematic, else disable it in config.plist 
