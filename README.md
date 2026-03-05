@@ -57,6 +57,19 @@ Use SSDT-Nvme-DISABLE.aml to disable the Nvme drives that are problematic, else 
 | Audio | ❌ | AppleALC kext working with layout-id 11 (On Sonoma) |
 | Mic | ❌ | Is it possible using? [AMDMicrophone](https://github.com/qhuyduong/AMDMicrophone) |
 
+## Bugs
+
+### Touchpad
+
+Vertical and horizontal acceleration is different (it vary annoying)
+
+### iGPU crawling
+
+dGPU is completely disabled and iGPU is not vary efficient while doing GPU intensive tasks. (Screen freeze)
+
+## Final verdict 
+
+HP victus 16,15 Hackintosh actually works better than a lot of people manage to get, with most of the basics running fine, but missing WiFi/Bluetooth, spotty sleep, terrible battery, audio headaches, and the iGPU choking under load make it pretty rough for everyday use—if you're just messing around for fun or want to try macOS without dropping cash on a real Mac, go for it, but honestly without WiFi it's barely usable as an actual laptop.
 
 ## Kexts Used
 
