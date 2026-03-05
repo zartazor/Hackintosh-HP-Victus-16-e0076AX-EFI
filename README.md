@@ -16,6 +16,8 @@ Use SSDT-Nvme-DISABLE.aml to disable the Nvme drives that are problematic, else 
 *   [Specifications](#specifications)
 *   [What's Working](#whats-working)
 *   [What's not Working](#whats-not-working)
+*   [Bugs](#bugs)
+*   [Final verdict](#final-verdict)
 *   [Kexts Used](#kexts-used)
 *   [Screenshots](#screenshots)
 
