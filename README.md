@@ -56,7 +56,7 @@ Use SSDT-Nvme-DISABLE.aml to disable the Nvme drives that are problematic, else 
 | HDMI out | ❌ | Connected to dGPU  |
 | WIFI | ❌ | Unsupported Chipset |
 | Bluetooth | ❌ | Unsupported Chipset |
-| Audio | ❌ | AppleALC kext working with layout-id 11 (On Sonoma) |
+| Audio | ❌ | AppleALC kext working with layout-id 11 (Only Sonoma) |
 | Mic | ❌ | Is it possible using? [AMDMicrophone](https://github.com/qhuyduong/AMDMicrophone) |
 
 ## Bugs
