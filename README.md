@@ -26,7 +26,7 @@ Use SSDT-Nvme-DISABLE.aml to disable the Nvme drives that are problematic, else 
 | ---------------------- | :------------------------------------------------------------------------ |   
 |CPU                     | AMD Ryzen™ 5 5600H with Radeon Graphics                                   |
 |iGPU                    | AMD Radeon(TM) Graphics                                                   |
-|dGPU                    | NVIDIA GTX 3050 [DISABLED]                                                |
+|dGPU                    | NVIDIA RTX 3050 [DISABLED]                                                |
 |Memory                  | 24GB DDR4 3200MHz                                                         |
 |Storage                 | 512GB NVMe Micron MTFDKCD512TFK                                           |
 |Network                 | Realtek RTL8852AE WiFi 6 802.11ax PCle Adapter [UNSUPPORTED]              | 
@@ -63,7 +63,7 @@ Use SSDT-Nvme-DISABLE.aml to disable the Nvme drives that are problematic, else 
 
 ### Touchpad
 
-Vertical and horizontal acceleration is different (it vary annoying)
+Vertical and horizontal acceleration is different (it's vary annoying)
 
 ### iGPU crawling
 
